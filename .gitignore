@@ -1,0 +1,14 @@
+#dependencies
+node_modules/
+bower_components/
+
+#config files
+config.js
+sftp-config.json
+
+#datas
+data/
+
+#builds
+public/js/bundle.js
+public/stylesheets/style.css
